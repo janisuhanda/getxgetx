@@ -15,14 +15,15 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+----------
+
 # Project ini akan membuat atau menggunakan fasilitas navigasi dari Library Getx
 
 Diantara nya :
-*// navigasi ke halaman *
-`Get.to(()=>Halaman());`
 
+*// navigasi ke halaman*
+`Get.to(()=>Halaman());`
 
 *// navigasi ke halaman sebelumnya*
 `Get.back();`
 
-<span style="color:blue">some *blue* text</span>.
