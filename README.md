@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 # Project ini akan membuat atau menggunakan fasilitas navigasi dari Library Getx
 
 Diantara nya :
-// navigasi ke halaman 
-Get.to(()=>Halaman());
+*// navigasi ke halaman *
+`Get.to(()=>Halaman());`
 
-// navigasi ke halaman sebelumnya
-Get.back();
+*// navigasi ke halaman sebelumnya*
+`Get.back();`
