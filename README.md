@@ -21,9 +21,9 @@ Diantara nya :
 *// navigasi ke halaman *
 `Get.to(()=>Halaman());`
 
+
 *// navigasi ke halaman sebelumnya*
 `Get.back();`
 
-test
-test
-s
+Test
+Test -
