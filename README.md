@@ -25,5 +25,4 @@ Diantara nya :
 *// navigasi ke halaman sebelumnya*
 `Get.back();`
 
-Test
-Test -
+<span style="color:blue">some *blue* text</span>.
